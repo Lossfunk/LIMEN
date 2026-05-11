@@ -1,7 +1,6 @@
 # Discovering Reinforcement Learning Interfaces with Large Language Models
 
 <p align="center">
-  <a href="https://rl-conference.cc/"><img src="https://img.shields.io/badge/Accepted_at-RLC_2026-2c3e50?style=flat-square" alt="RLC 2026"></a>
   <a href="https://arxiv.org/abs/2605.03408"><img src="https://img.shields.io/badge/arXiv-2605.03408-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://akshat-sj.github.io/limen/"><img src="https://img.shields.io/badge/Project_Page-akshat--sj.github.io/limen-1f7a2c?style=flat-square" alt="Project Page"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+"></a>
@@ -21,6 +20,8 @@
 </p>
 
 ---
+
+📢 **Accepted at the Reinforcement Learning Conference (RLC) 2026**
 
 **LIMEN** (**L**earning **I**nterfaces via **M**DP-guided **E**volutio**N**) is a framework for automatically discovering the *interface* between an RL agent and its environment, i.e. the observation function and reward function the agent learns on.
 
