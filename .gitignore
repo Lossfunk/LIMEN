@@ -34,6 +34,7 @@ results/
 media/videos/
 *.gif
 *.mp4
+!docs/teaser.mp4
 *.log
 wandb/
 
